@@ -9,7 +9,7 @@
 
 # SwiftCoin
 
-App written in Swift, provides information about cryptocurrencies, using API. App for study only.App escrito em Swift, traz informações de criptomoedas, consumindo API. App apenas para estudo.
+App written in Swift, provides information about cryptocurrencies, using API. App for study only.
 
 <p align="left">
     <img src="https://media.giphy.com/media/ZT0OMcRvROTcbiQV6b/giphy.gif" width="300" max-width="40%" alt="Github"/>
