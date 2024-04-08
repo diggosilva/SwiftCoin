@@ -1,3 +1,5 @@
+# SwiftCoin
+
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-5.9.1-orange.svg" />
     <img src="https://img.shields.io/badge/Xcode-15.2.X-orange.svg" />
@@ -6,8 +8,6 @@
         <img src="https://img.shields.io/badge/LinkedIn-@RodrigoSilva-blue.svg?style=flat" alt="LinkedIn: @RodrigoSilva" />
     </a>
 </p>
-
-# SwiftCoin
 
 App written in Swift, provides information about cryptocurrencies, using API. App for study only.
 
